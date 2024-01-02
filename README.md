@@ -1,7 +1,3 @@
-Certainly! Below is a sample README text for your GitHub project. I've included some explanations and formulas for key concepts in the context of your Convolutional Neural Network (CNN) model trained on the MNIST dataset.
-
----
-
 # Convolutional Neural Network for MNIST Classification
 
 ## Overview
